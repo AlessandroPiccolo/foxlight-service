@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FoxlightApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(FoxlightApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(FoxlightApplication.class, args);
+  }
 }
