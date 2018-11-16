@@ -7,8 +7,8 @@ MAINTAINER Alessandro Piccolo <alessandro.piccolo@hotmail.se>
 # Add a volume pointing to /tmp
 VOLUME /tmp
 
-# Make port 8080 available to the world outside this container
-EXPOSE 8080
+# Make port 5000 available to the world outside this container
+EXPOSE 5000
 
 # The application's jar file
 ARG JAR_FILE=target/foxlight-0.0.1-SNAPSHOT.jar
