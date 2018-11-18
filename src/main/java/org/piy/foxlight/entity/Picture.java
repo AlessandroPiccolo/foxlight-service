@@ -1,4 +1,4 @@
-package org.piy.foxlight.Entity;
+package org.piy.foxlight.entity;
 
 public class Picture {
 
