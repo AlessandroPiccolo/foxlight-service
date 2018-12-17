@@ -1,1 +1,1 @@
-# foxlight-service
+# Foxlight - Get ur daily source of fox pictures right here!

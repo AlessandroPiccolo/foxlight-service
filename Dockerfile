@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM openjdk:8-jdk-alpine
+FROM openjdk:11-jdk-alpine
 
 # Add Maintainer Info
 MAINTAINER Alessandro Piccolo <alessandro.piccolo@hotmail.se>
